@@ -1,5 +1,7 @@
 ## Samuel Morais da Silva
 
+Sou cientista de dados desde de meados de 2018 mas trabalho com algorítmos de modelagem de sistemas complexos desde 2015. O foco inicial era a produção de artigos como https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.032306. Nos últimos anos tenho me concentrado em produtos de dados na solução de problemas ligados ao mercado de créditos inadimplestes (NPL).
+
 You can use the [editor on GitHub](https://github.com/samuelmorais1891/samuelsilva.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
